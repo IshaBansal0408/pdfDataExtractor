@@ -1,0 +1,29 @@
+# Core PDF processing dependencies
+PyPDF2==3.0.1
+pdfplumber==0.11.8
+pdfminer.six==20251107
+pypdfium2==5.0.0
+
+# Data handling and Excel generation
+pandas==2.3.3
+openpyxl==3.1.5
+numpy==2.0.2
+
+# HTTP requests for LLM communication (Ollama)
+requests==2.32.5
+
+# Date and time utilities
+python-dateutil==2.9.0.post0
+pytz==2025.2
+
+# Image processing support for PDFs
+pillow==11.3.0
+
+# Core Python utilities
+six==1.17.0
+certifi==2025.11.12
+charset-normalizer==3.4.4
+idna==3.11
+urllib3==2.5.0
+et_xmlfile==2.0.0
+tzdata==2025.2
